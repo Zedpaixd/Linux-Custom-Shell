@@ -23,10 +23,6 @@
 void console()
 {
     printf("\n\n");
-    printf("        ###############################\n");
-    printf("      ##  OPERATING SYSTEMS 2021-2022  ##\n");
-    printf("    #######################################\n");
-    printf("  ##     ARMAND - (github.com/Zedpaixd)    ##\n");
     printf("###############################################\n");
     printf("#      WELCOME TO MY BUDGET LINUX SHELL       #\n");
     printf("#             TO EXIT TYPE \"EXIT\"             #\n");
