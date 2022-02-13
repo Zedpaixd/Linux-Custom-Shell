@@ -1,5 +1,5 @@
 # Linux-Custom-Shell
-Written in C, this project is a custom implementation of the linux terminal. Similarly, the project provides a Server / Client implementation where the "main" file (**fp.c** in our case) can be used as a way of giving a command and receiving the output by simply giving the command as an argument ( e.g. *./fp ls | rev* )
+Written in C, this project is a custom implementation of the linux terminal. Similarly, the project provides a Server / Client implementation where the "main" file (**fp.c** in our case) can be used as a way of giving a command and receiving the output by simply giving the command as an argument ( e.g. **./fp ls | rev** )
 
 
 ## Functionalities
