@@ -237,7 +237,7 @@ void updateCommandHistory(char *command)
 
 void executeInternal(char *argumentsAsString, char **argv, bool *internalCommand)
 {
-    if (strcmp(argv[0], "dirname") == 0) || (strcmp(argv[0], "mv") == 0) || (strcmp(argv[0], "cp") == 0) || (strcmp(argv[0], "help") == 0) || (strcmp(argv[0], "history") == 0))
+    if (strcmp(argv[0], "dirname") == 0 || (strcmp(argv[0], "mv") == 0) || (strcmp(argv[0], "cp") == 0) || (strcmp(argv[0], "help") == 0) || (strcmp(argv[0], "history") == 0))
     {
         *internalCommand = true;
     }
